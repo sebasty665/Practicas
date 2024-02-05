@@ -1,0 +1,21 @@
+.class1 
+{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.ajusta-la-fuente
+{
+    font-size: 24px;
+}
+#ID
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#ID2
+{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
