@@ -64,6 +64,7 @@ public class Leer
 			return datoLong();
 		}
 	}
+	@SuppressWarnings("removal")
 	public static float datoFloat()
 	{
 		try
