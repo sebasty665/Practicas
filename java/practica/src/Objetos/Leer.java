@@ -68,7 +68,6 @@ public class Leer
 	{
 		try
 		{
-			@SuppressWarnings("deprecation")
 			Float f = new Float(dato());
 			return f.floatValue();
 		}
